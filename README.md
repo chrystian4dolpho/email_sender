@@ -1,4 +1,4 @@
-# email_sender
+# email_sender(exercicio simples de estudo)
 Enviando e-mail via SMTP, utilizando PHPMailer e Gmail.
 
 Home construida com html e bootstrap.
